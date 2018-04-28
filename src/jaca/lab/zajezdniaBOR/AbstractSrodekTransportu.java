@@ -5,7 +5,7 @@ import static java.lang.System.out;
 public abstract class AbstractSrodekTransportu implements SrodekTransportu {
 
     public AbstractSrodekTransportu(){
-        out.println("ZZZZZZZZZ <- to ta zmaina ### Bezdomny z Warszawy podarował nowy środek transportu ;)....  "
+        out.println("QQQQQQQQQQQQ <- to ta zmaina ### Bezdomny z Warszawy podarował nowy środek transportu ;)....  "
                 + getTypSrodkaTransportu());
     }
 
